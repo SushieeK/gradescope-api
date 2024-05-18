@@ -99,10 +99,3 @@ For information on how to run your own tests using ```gradescopeapi```, refer to
 
 Please refer to the [CONTRIBUTING.md](docs/CONTRIBUTING.md) file for more information on how to contribute to the project.
 
-## Authors
-
-- Susmitha Kusuma
-- Berry Liu
-- Margaret Jagger
-- Calvin Tian
-- Kevin Zheng
